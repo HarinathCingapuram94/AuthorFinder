@@ -1,4 +1,4 @@
-Authorship Attribution for Neural Text Generation- [RUN APP](https://apporfinder-grtlgb4yxauid3dye9l9wd.streamlit.app/).
+Authorship Attribution for Neural Text Generation- RUN APP(https://apporfinder-grtlgb4yxauid3dye9l9wd.streamlit.app/).
 
 #Introduction 
 
