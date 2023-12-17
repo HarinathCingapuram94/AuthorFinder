@@ -22,7 +22,7 @@ model_human_vs_gpt = tf.keras.models.load_model('HumanVSGPT.h5')
 model_human_vs_11gpt = tf.keras.models.load_model('HumanVS11GPT.h5')
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 
-with open('/Users/harinathcingapuram/Documents/HumanVSGpt/vectorizer.pkl', 'rb') as file:
+with open('vectorizer.pkl', 'rb') as file:
     vectorizer = pickle.load(file)
 
 
