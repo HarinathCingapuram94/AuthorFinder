@@ -17,9 +17,9 @@ nltk.download('stopwords')
 nltk.download('wordnet') 
 
 # Load the saved models
-model_xgb = pickle.load(open('/Users/harinathcingapuram/Documents/HumanVSGpt/XBBOOST_Imbalanced.pkl', 'rb'))
-model_human_vs_gpt = tf.keras.models.load_model('/Users/harinathcingapuram/Documents/HumanVSGpt/HumanVSGPT.h5')
-model_human_vs_11gpt = tf.keras.models.load_model('/Users/harinathcingapuram/Documents/HumanVSGpt/HumanVS11GPT.h5')
+model_xgb = pickle.load(open('XBBOOST_Imbalanced.pkl', 'rb'))
+model_human_vs_gpt = tf.keras.models.load_model('HumanVSGPT.h5')
+model_human_vs_11gpt = tf.keras.models.load_model('HumanVS11GPT.h5')
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 
 with open('/Users/harinathcingapuram/Documents/HumanVSGpt/vectorizer.pkl', 'rb') as file:
