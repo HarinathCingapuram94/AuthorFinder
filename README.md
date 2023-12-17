@@ -1,6 +1,5 @@
-# AuthorFinder
-Author Attribution
-Author Finder
+Authorship Attribution for Neural Text Generation
+
 Streamlit App
 
 Introduction
@@ -24,20 +23,6 @@ TensorFlow and Keras for model building and predictions
 NLTK for natural language processing
 Scikit-learn for additional machine learning utilities
 Setup and Installation
-To run Author Finder locally:
 
-Clone the repository:
-sh
-Copy code
-git clone https://github.com/your-github/AuthorFinder.git
-Install the dependencies:
-sh
-Copy code
-pip install -r requirements.txt
-Run the app:
-sh
-Copy code
-streamlit run app.py
-Research and Presentation
 For an in-depth understanding of the methodologies and technologies used in this project, refer to our [Research Paper](/mnt/data/hcingapu (2).pdf).
 A detailed overview of the project can be found in our [Presentation](/mnt/data/AuthorFinder FINAL PPT.key).
