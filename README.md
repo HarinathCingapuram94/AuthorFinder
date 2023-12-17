@@ -1,4 +1,4 @@
-Authorship Attribution for Neural Text Generation- **RUN APP**(https://apporfinder-grtlgb4yxauid3dye9l9wd.streamlit.app/)
+Authorship Attribution for Neural Text Generation- [**RUN APP**](https://apporfinder-grtlgb4yxauid3dye9l9wd.streamlit.app/)
 
 #Introduction 
 
@@ -41,13 +41,13 @@ Fifth Method: The fifth approach was distinct, involving a grid search to define
 
 #Results:-
 
-Task 1:- 
+
 ![image](https://github.com/HarinathCingapuram94/AuthorFinder/assets/60059816/7f927a57-0df3-4d84-bebc-29973744c2af)
 
-Task2:- 
+
 ![image](https://github.com/HarinathCingapuram94/AuthorFinder/assets/60059816/e43e2eee-3f3c-4fdf-87f0-deedec26504b)
 
-Task3:- 
+
 ![image](https://github.com/HarinathCingapuram94/AuthorFinder/assets/60059816/01a5eeaf-3efd-42c2-a748-edef4923099e)
 
 
